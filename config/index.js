@@ -96,27 +96,55 @@ export const config = {
     },
     {
       name: "敏宝贝",
-      id: "o34Ha6apkJ5QZEFzqFcH2xZi4U6k",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      id: "UIM96OKANAvE4sfJwnE2UcDHfn5OoJYLk3c0AXquhEc",
+      useTemplateId: "H80519356",
+      province: "广东",
+      city: "惠州",
+      horoscopeDate: '5-1',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.baidu.com/",
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {"type": "*生日", "name": "敏宝贝", "year": "2004", "date": "05-01"},
+        {"type": "生日", "name": "林宝贝", "year": "2003", "date": "10-16"},
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {"type": "生日", "name": "敏宝贝", "year": "2004", "date": "05-01"},
+        {"type": "节日", "name": "林宝贝", "year": "2003", "date": "10-16"},
+      ],
+      customizedDateList: [
+        // 在一起的日子
+        {"keyword": "love_day", date: "2022-06-20"},
+        // 第一次接吻
+        {"keyword": "marry_day", date: "2022-07-18"},
+        // 第一次拥抱
+        {"keyword": "ex_day", date: "2022-06-17"},
+      ]
     },
     {
       name: "林宝贝",
-      id: "o34Ha6ZBXCnwDm32Y-SQNfmdC59s",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      id: "UIM96OKANAvE4sfJwnE2UcDHfn5OoJYLk3c0AXquhEc",
+      useTemplateId: "QQ853097424",
+      province: "广东",
+      city: "惠州",
+      horoscopeDate: '10-6',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.baidu.com/",
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {"type": "*生日", "name": "敏宝贝", "year": "2004", "date": "05-01"},
+        {"type": "生日", "name": "林宝贝", "year": "2003", "date": "10-16"},
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {"type": "生日", "name": "敏宝贝", "year": "2004", "date": "05-01"},
+        {"type": "节日", "name": "林宝贝", "year": "2003", "date": "10-16"},
+      ],
+      customizedDateList: [
+        // 在一起的日子
+        {"keyword": "love_day", date: "2022-06-20"},
+        // 第一次接吻
+        {"keyword": "marry_day", date: "2022-07-18"},
+        // 第一次拥抱
+        {"keyword": "ex_day", date: "2022-06-17"},
+      ]
     },
     {
       name: "敏宝贝",

@@ -210,10 +210,10 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-06-20"},
-    // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
-    // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
+    // 第一次接吻
+    {"keyword": "marry_day", date: "2022-07-18"},
+    // 第一次拥抱
+    {"keyword": "ex_day", date: "2022-06-17"},
     // 你可以不断按格式往下增加
     // ...
   ],

@@ -107,8 +107,8 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "敏宝贝",
-      id: "",
+      name: "林宝贝",
+      id: "o34Ha6ZBXCnwDm32Y-SQNfmdC59s",
       useTemplateId: "",
       province: "",
       city: "",
@@ -186,7 +186,7 @@ export const config = {
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
     {"type": "*生日", "name": "敏宝贝", "year": "2004", "date": "05-01", isShowAge: true},
-    {"type": "生日", "name": "林宝贝", "year": "2003", "date": "10-16"},
+    {"type": "节日", "name": "林宝贝", "year": "2003", "date": "10-16"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
     {"type": "生日", "name": "李四", "year": "1996", "date": "09-31", isShowAge: false},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},

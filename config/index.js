@@ -96,8 +96,8 @@ export const config = {
     },
     {
       name: "敏宝贝",
-      id: "UIM96OKANAvE4sfJwnE2UcDHfn5OoJYLk3c0AXquhEc",
-      useTemplateId: "H80519356",
+      id: "o34Ha6apkJ5QZEFzqFcH2xZi4U6k",
+      useTemplateId: "UIM96OKANAvE4sfJwnE2UcDHfn5OoJYLk3c0AXquhEc",
       province: "广东",
       city: "惠州",
       horoscopeDate: '5-1',
@@ -122,8 +122,8 @@ export const config = {
     },
     {
       name: "林宝贝",
-      id: "UIM96OKANAvE4sfJwnE2UcDHfn5OoJYLk3c0AXquhEc",
-      useTemplateId: "QQ853097424",
+      id: "o34Ha6ZBXCnwDm32Y-SQNfmdC59s",
+      useTemplateId: "UIM96OKANAvE4sfJwnE2UcDHfn5OoJYLk3c0AXquhEc",
       province: "广东",
       city: "惠州",
       horoscopeDate: '10-6',
